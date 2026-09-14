@@ -1,2 +1,5 @@
  git clone:<Descarga todos los archivos, ramas y el historial completo de cambios del proyecto.>
 git commit:<Guarda el estado actual de los archivos como un punto fijo y seguro en el tiempo>
+git push:<enviar y sincronizar los cambios de tu repositorio local hacia un repositorio remoto>
+git status:<mostrar el estado actual de tu directorio de trabajo y del área de preparación >
+git add:<mover los cambios de tus archivos desde el directorio de trabajo actual al área de preparación para prepararlos antes de guardarlos de forma definitiva>
