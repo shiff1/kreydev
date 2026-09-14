@@ -1,1 +1,2 @@
  git clone:<Descarga todos los archivos, ramas y el historial completo de cambios del proyecto.>
+git commit:<Guarda el estado actual de los archivos como un punto fijo y seguro en el tiempo>
