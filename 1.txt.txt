@@ -1,3 +1,4 @@
 nombre:shirley leon
-edad:19
 hobbie:basquet
+pelicula favorita: alice
+comida favorita: encebollado
